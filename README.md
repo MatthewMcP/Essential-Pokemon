@@ -1,4 +1,4 @@
-# PokemonMVC
+# Essential Pokemon
 Pokemon MVC App Demo
 
 Quick MVC App allowing users to get information to catch all 150 Pokemon on Red/Blue Pokemon games.
