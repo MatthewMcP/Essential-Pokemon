@@ -32,8 +32,8 @@ namespace PokemonMVCApp
             builder.RegisterType<Log4NetLogger>().As<ILogger>();
 
 
-            //builder.RegisterType<HardcodedDataSource>().As<IPokemonConnection>();
-            builder.RegisterType<PokemonConnection>().As<IPokemonConnection>();
+           builder.RegisterType<HardcodedDataSource>().As<IPokemonConnection>();
+           // builder.RegisterType<PokemonConnection>().As<IPokemonConnection>();
 
 
             builder.Populate(services);
