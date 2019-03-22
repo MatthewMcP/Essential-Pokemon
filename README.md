@@ -11,5 +11,11 @@ http://matthewmcp.azurewebsites.net/pokemon
 
 **MAY not be live - if interested please message me**
 
-
+Home Page
 ![alt text](https://github.com/MatthewMcP/Essential-Pokemon/blob/master/Photos/Home.png)
+
+Searching (Matching all pokemon with 'char' in their names)
+![alt text](https://github.com/MatthewMcP/Essential-Pokemon/blob/master/Photos/Char%20Search.png)
+
+Tooltip
+![alt text](https://github.com/MatthewMcP/Essential-Pokemon/blob/master/Photos/Tooltip.png)
